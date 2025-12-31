@@ -1,0 +1,8 @@
+{
+  "name": "TROCA TROCA",
+  "description": "Uma plataforma segura e gamificada para troca de itens e serviços, moderada por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
